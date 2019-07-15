@@ -4,16 +4,18 @@
 누락된부분이나 잘못 기록된 부분도 있을수 있으니 양해 부탁드립니다.
 <br>
 이번 세미나의 연사님들과 간단한 발표내용입니다.
- 
-발표내용은 다음과 같습니다.
-- | -
+![한국 MS 입구](https://github.com/yangseungin/review/blob/master/2019%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B4%EC%95%BC%EA%B8%B0/image/ms%20%EC%9E%85%EA%B5%AC%20%EC%82%AC%EC%A7%84.jpeg "MS")
+<br>발표내용은 다음과 같습니다.<br>
+
+
+| - | - |
 ------------ | :-------------
-권문범 | 오픈소스 보고, 응용하기<br><br>발표자소개<br>iOS 개발자<br>소속: Naver Corp. 네이버앱개발<br>전) 위메프모바일앱개발<br>전) 유엔젤모바일플랫폼개발 
-최영락 | 국제화/번역과 함꼐 하는 오픈소스에 대한 경험 및 노하우<br><br>***발표자소개***<br> Microsoft Korea Dev PMM
-방진호/고병권 | 회사원에서 오픈소스 개발자로 거듭나기<br><br>***발표자소개***<br>방진호<br>Samsung Internet Developer<br>Chromium Owner<br>Chromium Committer<br>W3C Spec Editor<br>W3C Web Platform Tests Reviewer<br><br>고병권<br>Android Multimedia Developer<br>Chromium Member<br>KossLab Open Frontier
-이경일 | 당신도 할 수 있는 오픈소스를 이용한 Application 완성도 높이기<br><br>***발표자소개***<br>(현) 네이버, CONOMI개발<br>(전) 네이버, 쇼핑데이터, BizOCR개발<br>(전) 카카오, 커머스 플랫폼 개발<br>(전) CJ오쇼핑, NHN i&s등등
-권혁진 | 나는 어쩌다 오픈소스 프로젝트 멤버가 되었나?<br><br>***발표자소개***<br>Apache Software Foundation Commiter / PMC 멤버 (Apache Spark) <br>현 Databricks 개발자<br>전 Cloudera / Hortonworks 개발자
-이희승/이서연 | 오픈소스 스프린트: 기획부터 실행까지<br><br>***발표자소개***<br>이희승<br>JVM 생태계에서 가장 인기있는 비동기 네트워크 프레임워크인 네티 프로젝트의 창시자, 라인플러스에서 Armeria와 Central Dogma와 같은 마이크로서비스 아키텍처 구현에 필요한 오픈 소스 소프트웨어를 개발중<br><br>이서연<br>라인플러스 오픈소스매니저
+| 권문범 | 오픈소스 보고, 응용하기<br><br>발표자소개<br>iOS 개발자<br>소속: Naver Corp. 네이버앱개발<br>전) 위메프모바일앱개발<br>전) 유엔젤모바일플랫폼개발 |
+| 최영락 | 국제화/번역과 함꼐 하는 오픈소스에 대한 경험 및 노하우<br><br>***발표자소개***<br> Microsoft Korea Dev PMM |
+| 방진호/고병권 | 회사원에서 오픈소스 개발자로 거듭나기<br><br>***발표자소개***<br>방진호<br>Samsung Internet Developer<br>Chromium Owner<br>Chromium Committer<br>W3C Spec Editor<br>W3C Web Platform Tests Reviewer<br><br>고병권<br>Android Multimedia Developer<br>Chromium Member<br>KossLab Open Frontier |
+| 이경일 | 당신도 할 수 있는 오픈소스를 이용한 Application 완성도 높이기<br><br>***발표자소개***<br>(현) 네이버, CONOMI개발<br>(전) 네이버, 쇼핑데이터, BizOCR개발<br>(전) 카카오, 커머스 플랫폼 개발<br>(전) CJ오쇼핑, NHN i&s등등 |
+| 권혁진 | 나는 어쩌다 오픈소스 프로젝트 멤버가 되었나?<br><br>***발표자소개***<br>Apache Software Foundation Commiter / PMC 멤버 (Apache Spark) <br>현 Databricks 개발자<br>전 Cloudera / Hortonworks 개발자 |
+| 이희승/이서연 | 오픈소스 스프린트: 기획부터 실행까지<br><br>***발표자소개***<br>이희승<br>JVM 생태계에서 가장 인기있는 비동기 네트워크 프레임워크인 네티 프로젝트의 창시자, 라인플러스에서 Armeria와 Central Dogma와 같은 마이크로서비스 아키텍처 구현에 필요한 오픈 소스 소프트웨어를 개발중<br><br>이서연<br>라인플러스 오픈소스매니저 |
 
 # 권문범 - 오픈소스 보고, 응용하기
 ------------------------------------
@@ -65,6 +67,7 @@
 
 # 이경일 - 당신도 할 수 있는 오픈소스를 이용한 Application 완성도 높이기
 ------------------------------------
+![이경일님](https://github.com/yangseungin/review/blob/master/2019%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B4%EC%95%BC%EA%B8%B0/image/%EC%9D%B4%EA%B2%BD%EC%9D%BC%EB%8B%98.jpg "이경일님")
 ### 애플리케이션에서의 완성도란 무엇일까?
 여러가지 측면에서 생각해볼 수 있다.
 - 기능명세서 대로 충실히 구현되었는가?
@@ -114,3 +117,31 @@ Pinpoint, Scouter, Jenniper 등등..
 
 - 오픈 소스를 만들고 본인이 서비스하는 프로젝트에 직접 적용을 해보는 것은 정말 좋은 경험이 된다.
 - 오픈소스에 직접 기여할 수 있으면 좋겠지만 적재적소에 잘 쓰는 것도 Application의 완성도를 올릴 수 있는 중요한 포인트라고 생각한다
+
+# 권혁진 - 나는 어쩌다 오픈소스 프로젝트 멤버가 되었나
+---
+개인적으로 가장 재미있었던 분이며 자신의 이야기를 풀어가며 강연을 해주셨음
+![권혁진님](https://github.com/yangseungin/review/blob/master/2019%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B4%EC%95%BC%EA%B8%B0/image/%EA%B6%8C%ED%98%81%EC%A7%84%EC%97%B0%EC%82%AC%EB%8B%98.jpg "권혁진님")
+
+-   나의 능력치는 평범 혹은 그 이하이다.
+-   로직 작성 10% 쉽게 다시 작성 40% 테스트 50%
+-   구글해서 열어본 페이지 끝까지 정독하기
+-   프로젝트별 규칙 및 방법론 준수하기
+-   익숙해 질 때까지, 코드 한 줄 한 줄을 구글, 일반적으로 받아들여지는 최선의 코드를 손에 익혀놓는다.
+-   오픈소스 활동은 영구적 자기소개서와 실력증명서가 될 수 있다.
+-   강약중강약(오픈소스 활동이 업무시간 일부를 사용하거나 개인 시간에 기여를 하다보니 늦은 시간까지 작업하게 되는 경우가 많아 건강을 해칠 수 있으니 쉬어가는 시간을 가질 필요가 있음)
+
+# 이희승/이서연 - 오픈소스 스프린트: 기획부터 실행까지
+
+---
+
+이 두 분은 Line+에서 사내에서 진행하였던 Sprint의 경험을 준비과정부터 전 과정을 생생하게 전달해 주셨습니다.
+
+-   sprint란?
+-   오픈소스 분야에서는 스프린트를 “같은 장소에 관심 있는 사람들이 모여 집중적으로 배우고 개발하여 프로젝트에 기여하는 모임” 정도로 생각하시면 될 것 같습니다.
+
+### 후기
+	일정이 빠듯해서인지 중간에 쉬는 시간도 조금씩 있었지만 시간에 쫓기듯 발표를 진행하시는 분들도 계셔서 아쉬웠지만, 개인적으로 오픈소스에 대해 좀 더 알게 되고 다가갈 수 있게 된 것 같습니다.
+	이런 세미나에 참여하게 된 게 처음이었던 것 같은데 많은 분들이 오픈소스와 개발자로서의 역량을 위해 노력하시는 모습을 보고 분발해야겠다는 생각을 하게 되는 좋은 경험이었던 것 같습니다.
+	아직 기여하고싶은 오픈소스를 찾지 못했지만 자주 사용하고 있는 오픈소스에 기여할 수 있도록 해야겠습니다.
+	세미나를 준비해주신 OSS개발자포럼 운영진분들과 연사님들께 감사의 말씀을 드립니다.    
